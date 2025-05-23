@@ -1,0 +1,16 @@
+D:\C#\winform-imageChanger\imageChanger\imageChanger\bin\Debug\net8.0-windows\imageChanger.exe
+D:\C#\winform-imageChanger\imageChanger\imageChanger\bin\Debug\net8.0-windows\imageChanger.deps.json
+D:\C#\winform-imageChanger\imageChanger\imageChanger\bin\Debug\net8.0-windows\imageChanger.runtimeconfig.json
+D:\C#\winform-imageChanger\imageChanger\imageChanger\bin\Debug\net8.0-windows\imageChanger.dll
+D:\C#\winform-imageChanger\imageChanger\imageChanger\bin\Debug\net8.0-windows\imageChanger.pdb
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.AssemblyInfoInputs.cache
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.AssemblyInfo.cs
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.csproj.CoreCompileInputs.cache
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.dll
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\refint\imageChanger.dll
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.pdb
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.genruntimeconfig.cache
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\ref\imageChanger.dll
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.Form1.resources
+D:\C#\winform-imageChanger\imageChanger\imageChanger\obj\Debug\net8.0-windows\imageChanger.csproj.GenerateResource.cache
