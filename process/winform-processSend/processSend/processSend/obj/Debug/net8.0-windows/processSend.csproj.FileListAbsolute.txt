@@ -1,0 +1,14 @@
+D:\C#\winform-processSend\processSend\processSend\bin\Debug\net8.0-windows\processSend.exe
+D:\C#\winform-processSend\processSend\processSend\bin\Debug\net8.0-windows\processSend.deps.json
+D:\C#\winform-processSend\processSend\processSend\bin\Debug\net8.0-windows\processSend.runtimeconfig.json
+D:\C#\winform-processSend\processSend\processSend\bin\Debug\net8.0-windows\processSend.dll
+D:\C#\winform-processSend\processSend\processSend\bin\Debug\net8.0-windows\processSend.pdb
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.AssemblyInfoInputs.cache
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.AssemblyInfo.cs
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.csproj.CoreCompileInputs.cache
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.dll
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\refint\processSend.dll
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.pdb
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\processSend.genruntimeconfig.cache
+D:\C#\winform-processSend\processSend\processSend\obj\Debug\net8.0-windows\ref\processSend.dll

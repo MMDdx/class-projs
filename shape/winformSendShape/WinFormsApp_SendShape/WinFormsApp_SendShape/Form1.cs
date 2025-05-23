@@ -1,0 +1,81 @@
+using System.Text;
+
+namespace WinFormsApp_SendShape;
+using System.Net.Sockets;
+using System.Net;
+public partial class Form1 : Form
+{
+    public string shape_type;
+    int x1, y1, x2, y2;
+    public Color col;
+    public Form1()
+    {
+        InitializeComponent();
+    }
+
+
+    private void textBox1_TextChanged(object sender, EventArgs e)
+    {
+        throw new System.NotImplementedException();
+    }
+
+    private void button1_Click(object sender, EventArgs e)
+    {
+        shape_type = "line";
+    }
+
+    private void rect_Click(object sender, EventArgs e)
+    {
+        shape_type = "rect";
+    }
+
+    private void ellipse_Click(object sender, EventArgs e)
+    {
+        shape_type = "ellipse";
+    }
+
+    private void Form1_MouseDown(object sender, MouseEventArgs e)
+    {
+        x1 = e.X;
+        y1 = e.Y;
+    }
+
+    private void Form1_MouseUp(object sender, MouseEventArgs e)
+    {
+        x2 = e.X;
+        y2 = e.Y;
+        Graphics g = this.CreateGraphics();
+        Pen p = new Pen(col);
+        Brush b = new SolidBrush(col);
+        switch (shape_type)
+        {
+            case "line":g.DrawLine(p, x1, y1, x2, y2) ;
+                break;
+            case "rect":g.FillRectangle(b, x1, y1, Math.Abs(x2-x1), Math.Abs(y2-y1)) ;
+                break;
+            case "ellipse":
+                g.FillEllipse(b, x1, y1, Math.Abs(x2-x1), Math.Abs(y2-y1)) ;
+                break;
+        } 
+
+        // sending ...
+        UdpClient senderClient = new UdpClient();
+        string msg = shape_type+","+x1+","+y1+","+x2+","+y2+","+ColorTranslator.ToHtml(col);
+        byte[] data = Encoding.UTF8.GetBytes(msg);
+        
+        string targetIp = "127.0.0.1";
+        int targetPort = 11000;
+        
+        senderClient.Send(data, data.Length, targetIp, targetPort);
+        senderClient.Close();
+        // MessageBox.Show("Sent!");
+
+    }
+
+    private void color_Click(object sender, EventArgs e)
+    {
+        ColorDialog cd = new ColorDialog();
+        cd.ShowDialog();
+        col = cd.Color;
+    }
+}

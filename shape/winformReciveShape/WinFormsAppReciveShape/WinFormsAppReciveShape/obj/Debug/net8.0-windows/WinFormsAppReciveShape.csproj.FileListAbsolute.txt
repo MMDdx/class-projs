@@ -1,0 +1,14 @@
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\bin\Debug\net8.0-windows\WinFormsAppReciveShape.exe
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\bin\Debug\net8.0-windows\WinFormsAppReciveShape.deps.json
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\bin\Debug\net8.0-windows\WinFormsAppReciveShape.runtimeconfig.json
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\bin\Debug\net8.0-windows\WinFormsAppReciveShape.dll
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\bin\Debug\net8.0-windows\WinFormsAppReciveShape.pdb
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.AssemblyInfoInputs.cache
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.AssemblyInfo.cs
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.csproj.CoreCompileInputs.cache
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.dll
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\refint\WinFormsAppReciveShape.dll
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.pdb
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\WinFormsAppReciveShape.genruntimeconfig.cache
+D:\C#\winformReciveShape\WinFormsAppReciveShape\WinFormsAppReciveShape\obj\Debug\net8.0-windows\ref\WinFormsAppReciveShape.dll

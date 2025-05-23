@@ -1,0 +1,14 @@
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\bin\Debug\net8.0-windows\WinFormsAppSendButtonLocation.exe
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\bin\Debug\net8.0-windows\WinFormsAppSendButtonLocation.deps.json
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\bin\Debug\net8.0-windows\WinFormsAppSendButtonLocation.runtimeconfig.json
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\bin\Debug\net8.0-windows\WinFormsAppSendButtonLocation.dll
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\bin\Debug\net8.0-windows\WinFormsAppSendButtonLocation.pdb
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.AssemblyInfoInputs.cache
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.AssemblyInfo.cs
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.csproj.CoreCompileInputs.cache
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.dll
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\refint\WinFormsAppSendButtonLocation.dll
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.pdb
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\WinFormsAppSendButtonLocation.genruntimeconfig.cache
+D:\C#\winform-SendButtonLocation\WinFormsAppSendButtonLocation\WinFormsAppSendButtonLocation\obj\Debug\net8.0-windows\ref\WinFormsAppSendButtonLocation.dll

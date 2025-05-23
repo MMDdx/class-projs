@@ -1,0 +1,14 @@
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\bin\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.exe
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\bin\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.deps.json
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\bin\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.runtimeconfig.json
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\bin\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.dll
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\bin\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.pdb
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.AssemblyInfoInputs.cache
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.AssemblyInfo.cs
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.csproj.CoreCompileInputs.cache
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.dll
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\refint\WinFormsAppReciveButtonLocation.dll
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.pdb
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\WinFormsAppReciveButtonLocation.genruntimeconfig.cache
+D:\C#\winform-ReciveButtonLocation\WinFormsAppReciveButtonLocation\WinFormsAppReciveButtonLocation\obj\Debug\net8.0-windows\ref\WinFormsAppReciveButtonLocation.dll

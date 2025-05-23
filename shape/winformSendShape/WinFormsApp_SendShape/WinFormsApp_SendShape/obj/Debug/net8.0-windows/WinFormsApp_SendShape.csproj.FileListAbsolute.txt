@@ -1,0 +1,14 @@
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\bin\Debug\net8.0-windows\WinFormsApp_SendShape.exe
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\bin\Debug\net8.0-windows\WinFormsApp_SendShape.deps.json
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\bin\Debug\net8.0-windows\WinFormsApp_SendShape.runtimeconfig.json
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\bin\Debug\net8.0-windows\WinFormsApp_SendShape.dll
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\bin\Debug\net8.0-windows\WinFormsApp_SendShape.pdb
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.AssemblyInfoInputs.cache
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.AssemblyInfo.cs
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.csproj.CoreCompileInputs.cache
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.dll
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\refint\WinFormsApp_SendShape.dll
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.pdb
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\WinFormsApp_SendShape.genruntimeconfig.cache
+D:\C#\winformSendShape\WinFormsApp_SendShape\WinFormsApp_SendShape\obj\Debug\net8.0-windows\ref\WinFormsApp_SendShape.dll

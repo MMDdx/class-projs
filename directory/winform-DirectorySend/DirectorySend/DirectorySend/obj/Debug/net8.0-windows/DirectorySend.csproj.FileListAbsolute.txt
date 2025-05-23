@@ -1,0 +1,14 @@
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\bin\Debug\net8.0-windows\DirectorySend.exe
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\bin\Debug\net8.0-windows\DirectorySend.deps.json
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\bin\Debug\net8.0-windows\DirectorySend.runtimeconfig.json
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\bin\Debug\net8.0-windows\DirectorySend.dll
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\bin\Debug\net8.0-windows\DirectorySend.pdb
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.AssemblyInfoInputs.cache
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.AssemblyInfo.cs
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.csproj.CoreCompileInputs.cache
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.dll
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\refint\DirectorySend.dll
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.pdb
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\DirectorySend.genruntimeconfig.cache
+D:\C#\winform-DirectorySend\DirectorySend\DirectorySend\obj\Debug\net8.0-windows\ref\DirectorySend.dll

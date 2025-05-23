@@ -1,0 +1,14 @@
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\bin\Debug\net8.0-windows\DrawLinesRecive.exe
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\bin\Debug\net8.0-windows\DrawLinesRecive.deps.json
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\bin\Debug\net8.0-windows\DrawLinesRecive.runtimeconfig.json
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\bin\Debug\net8.0-windows\DrawLinesRecive.dll
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\bin\Debug\net8.0-windows\DrawLinesRecive.pdb
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.AssemblyInfoInputs.cache
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.AssemblyInfo.cs
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.csproj.CoreCompileInputs.cache
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.dll
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\refint\DrawLinesRecive.dll
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.pdb
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\DrawLinesRecive.genruntimeconfig.cache
+D:\C#\winform-DrawLinesRecive\DrawLinesRecive\DrawLinesRecive\obj\Debug\net8.0-windows\ref\DrawLinesRecive.dll

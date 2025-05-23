@@ -1,0 +1,14 @@
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\bin\Debug\net8.0-windows\directoryReceive.exe
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\bin\Debug\net8.0-windows\directoryReceive.deps.json
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\bin\Debug\net8.0-windows\directoryReceive.runtimeconfig.json
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\bin\Debug\net8.0-windows\directoryReceive.dll
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\bin\Debug\net8.0-windows\directoryReceive.pdb
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.AssemblyInfoInputs.cache
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.AssemblyInfo.cs
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.csproj.CoreCompileInputs.cache
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.dll
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\refint\directoryReceive.dll
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.pdb
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\directoryReceive.genruntimeconfig.cache
+D:\C#\winform-directoryReceive\directoryReceive\directoryReceive\obj\Debug\net8.0-windows\ref\directoryReceive.dll

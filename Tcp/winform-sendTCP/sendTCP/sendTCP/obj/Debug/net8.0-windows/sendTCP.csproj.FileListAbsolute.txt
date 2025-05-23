@@ -1,0 +1,14 @@
+D:\C#\winform-sendTCP\sendTCP\sendTCP\bin\Debug\net8.0-windows\sendTCP.exe
+D:\C#\winform-sendTCP\sendTCP\sendTCP\bin\Debug\net8.0-windows\sendTCP.deps.json
+D:\C#\winform-sendTCP\sendTCP\sendTCP\bin\Debug\net8.0-windows\sendTCP.runtimeconfig.json
+D:\C#\winform-sendTCP\sendTCP\sendTCP\bin\Debug\net8.0-windows\sendTCP.dll
+D:\C#\winform-sendTCP\sendTCP\sendTCP\bin\Debug\net8.0-windows\sendTCP.pdb
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.AssemblyInfoInputs.cache
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.AssemblyInfo.cs
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.csproj.CoreCompileInputs.cache
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.dll
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\refint\sendTCP.dll
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.pdb
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\sendTCP.genruntimeconfig.cache
+D:\C#\winform-sendTCP\sendTCP\sendTCP\obj\Debug\net8.0-windows\ref\sendTCP.dll

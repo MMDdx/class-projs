@@ -1,0 +1,14 @@
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\bin\Debug\net8.0-windows\DrawLinesSend.exe
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\bin\Debug\net8.0-windows\DrawLinesSend.deps.json
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\bin\Debug\net8.0-windows\DrawLinesSend.runtimeconfig.json
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\bin\Debug\net8.0-windows\DrawLinesSend.dll
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\bin\Debug\net8.0-windows\DrawLinesSend.pdb
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.AssemblyInfoInputs.cache
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.AssemblyInfo.cs
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.csproj.CoreCompileInputs.cache
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.dll
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\refint\DrawLinesSend.dll
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.pdb
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\DrawLinesSend.genruntimeconfig.cache
+D:\C#\winform-DrawLinesSend\DrawLinesSend\DrawLinesSend\obj\Debug\net8.0-windows\ref\DrawLinesSend.dll

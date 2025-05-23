@@ -1,0 +1,14 @@
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\bin\Debug\net8.0-windows\reciveTcp.exe
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\bin\Debug\net8.0-windows\reciveTcp.deps.json
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\bin\Debug\net8.0-windows\reciveTcp.runtimeconfig.json
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\bin\Debug\net8.0-windows\reciveTcp.dll
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\bin\Debug\net8.0-windows\reciveTcp.pdb
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.AssemblyInfoInputs.cache
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.AssemblyInfo.cs
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.csproj.CoreCompileInputs.cache
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.dll
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\refint\reciveTcp.dll
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.pdb
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\reciveTcp.genruntimeconfig.cache
+D:\C#\winform-reciveTcp\reciveTcp\reciveTcp\obj\Debug\net8.0-windows\ref\reciveTcp.dll
